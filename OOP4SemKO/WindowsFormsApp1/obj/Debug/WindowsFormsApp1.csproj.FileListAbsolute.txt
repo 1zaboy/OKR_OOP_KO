@@ -1,0 +1,10 @@
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Vlad\BNTU\3 Task\ООП\OOP4SemKO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
